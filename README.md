@@ -15,6 +15,7 @@ This project presents an interactive sales dashboard built using Looker Studio, 
 ## 📊 Tools & Skills Used
 
 * Looker Studio (Google Data Studio)
+* Google Sheets
 * Data Cleaning & Aggregation
 * Time Series & Category Trend Analysis
 * Visualization Design
